@@ -1,1 +1,1 @@
-PhD Candidate at BSC | FPGA | HLS | Undervolting | Near Memory Computation 
+RTL | FPGA | HLS | ML | Error Correction | Quantum Key Distribution | Near Memory Computation 
