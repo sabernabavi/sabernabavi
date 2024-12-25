@@ -1,1 +1,1 @@
-RTL | FPGA | HLS | ML | Error Correction | Quantum Key Distribution | Near Memory Computation 
+RTL | FPGA | HLS | ML | Error Correction | Quantum Key Distribution | Near Memory Computation | High-Bandwidth Memory
